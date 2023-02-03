@@ -5,7 +5,8 @@
 <h3>Dashboard-1: Objective -
 
 •	To compare the prevalence, incidence and mortality cases by regions.
-•	To understand the severity of HIV in incident TB among different areas. • To observe the overall population trend over years.
+•	To understand the severity of HIV in incident TB among different areas. 
+• To observe the overall population trend over years.
 
 ![image](https://github.com/priyankac15/Global-Tuberculosis-Analysis-Dashboards/blob/main/Tb_Burden_1.png)
 
