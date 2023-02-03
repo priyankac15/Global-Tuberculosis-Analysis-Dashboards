@@ -1,4 +1,4 @@
-<h1> Tuberculosis-Burdened-Countries- Analysis - Tableau </h1>
+<h1> Tuberculosis Burdened Countries Analysis - Tableau </h1>
 
 <h2> This project focuses on analyzing the Global impact of Tuberculosis on each country. I have analyzed Regional Estimated Cases, Prevalence, Incidences, and Deaths of Tb (All forms) from the years 1990 to 2013.</h2>
 
