@@ -1,4 +1,5 @@
 #Tuberculosis-Burdened-Countries-Tableau
+
 <h2> This project focuses on analyzing the Global impact of Tuberculosis on each country. I have analyzed Regional Estimated Cases, Prevalence, Incidences, and Deaths of Tb (All forms) from the years 1990 to 2013.</h2>
 
 <h3>Dashboard-1: Objective -
@@ -13,12 +14,12 @@ Dashboard-2: Objective -
 •	To understand the top countries with highest estimated prevalence cases.
 •	Show the proportions of average TB mortality percentage in different regions.
 
-![image](https://github.com/priyankac15/Global-Tuberculosis-Analysis-Dashboards/blob/main/TuberculosisBurdened_2.jpg)
+![image](https://github.com/priyankac15/Global-Tuberculosis-Analysis-Dashboards/blob/main/Tb_Burden_2.png)
 
 Dashboard-3: Objective -
 • Incidence in a certain population (x100000pop)
 • Prevalence in a certain population (x100000pop)
 • Mortality rates in a certain population (x100000pop)
 
-![image](https://github.com/priyankac15/Global-Tuberculosis-Analysis-Dashboards/blob/main/Tuberculosis_Budened3.jpg)
+![image](https://github.com/priyankac15/Global-Tuberculosis-Analysis-Dashboards/blob/main/Tb_Burden_3.png)
 </h3>
