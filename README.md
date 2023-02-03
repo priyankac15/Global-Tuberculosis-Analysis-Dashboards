@@ -4,26 +4,26 @@
 
 <h3>Dashboard-1: Objective -
 
-•	To compare the prevalence, incidence and mortality cases by regions.
-•	To understand the severity of HIV in incident TB among different areas. 
-• To observe the overall population trend over years.
+-	To compare the prevalence, incidence and mortality cases by regions.
+-	To understand the severity of HIV in incident TB among different areas. 
+- To observe the overall population trend over years.
 
 ![image](https://github.com/priyankac15/Global-Tuberculosis-Analysis-Dashboards/blob/main/Tb_Burden_1.png)
 
 Dashboard-2: Objective -
 
-•	To observe average incidence and mortality TB cases with people who are HIVpositive among different regions.
-•	To see the case detection rate trends of 6 regions, which is the ratio of the number of notified TB cases to the number of incident TB cases throughout the years.
-•	To understand the top countries with highest estimated prevalence cases.
-•	Show the proportions of average TB mortality percentage in different regions.
+-	To observe average incidence and mortality TB cases with people who are HIVpositive among different regions.
+-	To see the case detection rate trends of 6 regions, which is the ratio of the number of notified TB cases to the number of incident TB cases throughout the years.
+-	To understand the top countries with highest estimated prevalence cases.
+-	Show the proportions of average TB mortality percentage in different regions.
 
 ![image](https://github.com/priyankac15/Global-Tuberculosis-Analysis-Dashboards/blob/main/TB_Burden_2.png)
 
 Dashboard-3: Objective -
 
-• Incidence in a certain population (x100000pop)
-• Prevalence in a certain population (x100000pop)
-• Mortality rates in a certain population (x100000pop)
+- Incidence in a certain population (x100000pop)
+- Prevalence in a certain population (x100000pop)
+- Mortality rates in a certain population (x100000pop)
 
 ![image](https://github.com/priyankac15/Global-Tuberculosis-Analysis-Dashboards/blob/main/TB_Burden_3.png)
 </h3>
