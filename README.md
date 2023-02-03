@@ -14,12 +14,12 @@ Dashboard-2: Objective -
 •	To understand the top countries with highest estimated prevalence cases.
 •	Show the proportions of average TB mortality percentage in different regions.
 
-![image](https://github.com/priyankac15/Global-Tuberculosis-Analysis-Dashboards/blob/main/Tb_Burden_2.png)
+![image](https://github.com/priyankac15/Global-Tuberculosis-Analysis-Dashboards/blob/main/TB_Burden_2.png)
 
 Dashboard-3: Objective -
 • Incidence in a certain population (x100000pop)
 • Prevalence in a certain population (x100000pop)
 • Mortality rates in a certain population (x100000pop)
 
-![image](https://github.com/priyankac15/Global-Tuberculosis-Analysis-Dashboards/blob/main/Tb_Burden_3.png)
+![image](https://github.com/priyankac15/Global-Tuberculosis-Analysis-Dashboards/blob/main/TB_Burden_3.png)
 </h3>
